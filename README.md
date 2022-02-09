@@ -22,6 +22,8 @@ Most programs are supported on Linux but there is a bunch that aren't. Generally
 
 More advanced computer users who need certain proprietary tools for their work should make sure that those tools are available on Linux. While there are always good alternatives that regular users might not have an issue switching to, professionals often cannot make that compromise and should not switch to Linux on their primary working computers. This can apply to many content creators or artists like music producers or graphic designers.
 
+There's still a couple small quirks that might cause some users a little frustration. Many of those will most likely be addressed in the near future but the ones you might encounter are lack of out of the box support for some languages (it can be installed but it's not very intuitive) or lack of the autoscroll functionality when pressing the middle mouse button (although it's available inside web browsers via settings or extensions)
+
 ## How to switch
 
 If you've never installed an operating system before, you might feel intimidated but it's really not that hard, I promise! There's going to be a couple important steps that I'll attempt to break down and simplify as much as possible. Instead of presenting a million different options, I will try to suggest sane defaults that should set you on your journey but once you get the hang of using Linux, you'll be able to easily try all the various options it offers. I divided this guide into the following steps:
@@ -41,4 +43,6 @@ I understand that not everyone has a spare computer to work with or has the tech
 
 ## Choose a distribution
 
-Linux comes in many flavours, called distributions. As a complete beginner, the single biggest factor behind choosing a distribution, will be its desktop environment, which determines the look and feel of your system. There is a couple of them and if you really
+Linux comes in many flavours, called distributions. As a complete beginner, you should only consider the most popular and user friendly distributions. Perhaps the single biggest factor behind choosing a distribution, will be its desktop environment, which determines the look and feel of your system. There is a couple of available desktops you could choose from, I will describe the most popular ones and link to their showcases in case you'd like to choose one on your own. I will also suggest what I think is the best choice for a new user. 
+
+The ... desktop environment is offered by many distributions so the distribution choice mostly comes down to their popularity and ease of use. I'll save you the trouble and suggest ...
