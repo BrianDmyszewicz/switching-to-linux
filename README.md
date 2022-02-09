@@ -1,5 +1,7 @@
 # Switching to Linux
 
+!!! THIS GUIDE IS STILL WORK IN PROGRESS !!!
+
 ## Introduction
 
 This guide is intended for beginners who don't know anything about Linux (or even computers in general) but are willing to give it a try. It covers and attempts to simplify the choice of one's first Linux distribution, the process of its installation as well as the basic knowledge required to use it, including some major differences between Linux and other operating systems. This guide includes some subjective but necessary simplifications, to eliminate confusion for new users. Existing Linux users wishing to learn much more about their system can instead follow my "Understanding Linux" guide.
@@ -28,18 +30,18 @@ There's still a couple small quirks that might cause some users a little frustra
 
 If you've never installed an operating system before, you might feel intimidated but it's really not that hard, I promise! There's going to be a couple important steps that I'll attempt to break down and simplify as much as possible. Instead of presenting a million different options, I will try to suggest sane defaults that should set you on your journey but once you get the hang of using Linux, you'll be able to easily try all the various options it offers. I divided this guide into the following steps:
 
-0. Use a spare device
+0. Choose a device
 1. Choose a distribution
 2. Create an installation USB
 3. Install Linux
 4. Basics of using Linux
 5. Software alternatives
 
-## Use a spare device
+## Choose a device
 
 A simple solution to all the mentioned compromises is installing Linux on a spare computer or hard drive. Doing this will eliminate any stress possibly caused by being forced to quickly adjust to your new system and programs. If you instead do it in your free time and treat it as more of a hobby, it'll be a much better experience and if anything ever goes wrong, you'll have nothing to worry about. This also means that you won't have to back up your data like documents or photos, which would be deleted when installing a new operating system. 
 
-I understand that not everyone has a spare computer to work with or has the technical knowledge to change a hard drive but I can't stress enough how important this step is, especially if you're not an advanced computer user in the first place. There are cheap old laptops you can buy used that will be ideal for this purpose and you can always sell them back at any point.
+I understand that not everyone has a spare computer to work with or has the technical knowledge to change a hard drive but I can't stress enough how important this step is, especially if you're not an advanced computer user in the first place. There's tons of cheap old laptops you can buy used that will be ideal for this purpose and you can always sell them back at any point.
 
 ## Choose a distribution
 
