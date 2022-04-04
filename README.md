@@ -38,20 +38,18 @@ If you've never installed an operating system before, you might feel intimidated
 4. Basics of using Linux
 5. Software alternatives
 
-## Choose a distribution
+## 1 Choose a distribution
 
-Linux comes in many flavours, called distributions. As a complete beginner, you should only consider the most popular and user friendly distributions. Perhaps the single biggest factor behind choosing a distribution, will be its desktop environment, which determines the look and feel of your system. There is a couple of available desktops you could choose from, and a handful of popular distributions that offer them. I will narrow the options down for you for now and recommend a clear favourite, but remember that this choice is not permanent, you can always go back and try them all out in the future.
+Linux comes in many flavours, called distributions. As a complete beginner, you should only consider the most popular and user friendly distributions. Perhaps the single biggest factor behind choosing a distribution, will be its desktop environment, which determines the look and feel of your system. There is a couple of available desktops you could choose from, and a handful of popular distributions that offer them. I will narrow the options down for you for now and recommend my favourite, but remember that this choice is not permanent, you can always go back and try them all out in the future. 
 
-Popular desktops include:  
-- KDE (Windows-like, focused on customizability)  
-- Gnome (MacOS-like, focused on simplicity)  
-- Cinnamon (Windows-like, focused on ease of use)  
-- Xfce (Windows-like, focused on performance)  
+Popular beginner-friendly distributions I can recommend:  
+- Mint:       best with Cinnamon desktop providing a Windows-like look, ease-of-use and beginner focus  
+- Fedora:     comes with Gnome desktop providing a MacOS-like look, new technology and simplicity focus  
+- Manjaro:    all major desktops available, very frequent updates, best for "tinkerers" who want to learn  
 
-Popular beginner distributions are:
-- Mint (with Cinnamon or Xfce desktop)
-- Fedora (with Gnome desktop)
-- PopOS (gaming focused, with a modified Gnome desktop)
-- Manjaro (gaming focused, with KDE, Xfce or Gnome)
+If you're still unsure what to go with or want to try out even more options, that's fine. You can actually try all of them out by simply installing them on a USB drive. This step is requred for the installation anyway, and it lets you quickly see if you like the general look and feel of the system.
 
-As a rule of thumb, if you have a *very* old machine, the first 
+## 2. Create an installation USB
+
+Before you can install the system on your computer, you must download and install it onto a USB drive. There are different ways of doing this depending on what system you're currently using. I'll show one method per platform to keep it simple:
+
