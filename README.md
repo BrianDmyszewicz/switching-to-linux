@@ -34,9 +34,10 @@ If you've never installed an operating system before, you might feel intimidated
 
 1. Choose a distribution
 2. Create an installation USB
-3. Install Linux
-4. Basics of using Linux
-5. Software alternatives
+3. Change BIOS settings
+4. Install Linux
+5. Basics of using Linux
+6. Software alternatives
 
 ## 1 Choose a distribution
 
@@ -51,5 +52,24 @@ If you're still unsure what to go with or want to try out even more options, tha
 
 ## 2. Create an installation USB
 
-Before you can install the system on your computer, you must download and install it onto a USB drive. There are different ways of doing this depending on what system you're currently using. I'll show one method per platform to keep it simple:
+Before you can install the system on your computer, you must download and install it onto a USB drive. There are different ways of doing this, I'll describe the simplest method. First choose and insert a USB drive you want to use, it should be at least 4GB and you should make sure you don't have important data stored on it, as it will be removed. Next go to the website of your distribution of choice and download the ISO file. Then download Balena Etcher from https://www.balena.io/etcher/, run it, select the downloaded ISO and the USB drive, flash it and that's it.
 
+## 3. Change BIOS settings
+
+First you must enter your computer's BIOS, you can do this by mashing a specific key when the computer starts up. Which key to press depends on your computer, often enough the key will be displayed and described as "BIOS", "firmware" or "setup". Most commonly used keys to enter it are F1, F2, F7, Esc or Del so you can just try those and other F-keys if necessary. 
+
+Some distributions might work with secure boot enabled but it's overall unnecessary and can cause issues so I recommend always disabling it. Some computers might force you to clear/delete secure boot keys in order to disable it, don't worry, it's reversible.
+
+Lastly, you must change the priority of the boot order to make sure the system on your USB is started rather than your hard drive. Simply move your USB drive to the top of the boot order/priority, then save changes and exit BIOS, your computer should now boot into the system you installed on the USB.
+
+## 4. Install Linux
+
+Once you decided you like whatever distribution you're trying out, you can procede and install it on your hard drive. This is irreversible and will overwrite everything else on it, so either do it on a spare computer or on an empty drive, don't accidentally remove your data. To install it, simply follow the steps of the installer of your selected distribution. This should be pretty straight forward, you want to select your language, user name, password etc. you can of course change all of those things later if you wish. Once the process is complete, you can shut down your computer, remove the USB and simply start it again, it should now boot into your new Linux system.
+
+## 5. 
+
+Talk about software store and packages, dont download from the web
+
+## 6. 
+
+Recommend only office etc.
